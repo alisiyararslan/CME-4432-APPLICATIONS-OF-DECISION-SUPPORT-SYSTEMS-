@@ -1,0 +1,11 @@
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\obj\Debug\DSSWindowsFormsAppSOM.csproj.AssemblyReference.cache
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\obj\Debug\DSSWindowsFormsAppSOM.Form1.resources
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\obj\Debug\DSSWindowsFormsAppSOM.Properties.Resources.resources
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\obj\Debug\DSSWindowsFormsAppSOM.csproj.GenerateResource.cache
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\obj\Debug\DSSWindowsFormsAppSOM.csproj.CoreCompileInputs.cache
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\bin\Debug\DSSWindowsFormsAppSOM.exe.config
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\bin\Debug\DSSWindowsFormsAppSOM.exe
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\bin\Debug\DSSWindowsFormsAppSOM.pdb
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\obj\Debug\DSSWindowsFormsAppSOM.exe
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\obj\Debug\DSSWindowsFormsAppSOM.pdb
+C:\Users\siyar\source\repos\DSSWindowsFormsAppSOM\DSSWindowsFormsAppSOM\obj\Debug\DSSWindowsFormsAppSOM.Form2.resources
